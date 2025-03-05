@@ -1,5 +1,5 @@
 # Bash-Project
-Concatenates two text files into one output file.
+Concatenates two text files into one output file. Useful for merging two text documents into one file.
 Custom output filename using the -r option (otherwise defaults to file1_file2.txt).
 Help option (-h) to display usage instructions.
 
